@@ -1,19 +1,20 @@
-<!-- Header Section with Animated Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Initializing+System...;Welcome+to+my+Profile!;I'm+Ravindu+Sadhakith;Cybersecurity+Specialist;Full-Stack+%26+Embedded+Dev" alt="Typing SVG" />
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=ROOT+ACCESS+GRANTED...;SYSTEM+ONLINE...;WELCOME,+USER...;I+AM+RAVINDU+SADHAKITH;CYBERSECURITY+SPECIALIST" alt="Typing SVG" />
+  </h1>
+</div>
+
+<div align="center">
+  <p><i>"Securing the digital frontier, one packet at a time."</i></p>
 </div>
 
 <br>
 
-<!-- Terminal Style About Me -->
-### 💻 `Terminal: ~`
-```bash
-> whoami
-Ravindu Sadhakith
-
-> ./fetch_info.sh
-🎓 Education : Cybersecurity Undergraduate @ SLIIT
-🎯 Focus     : Network Recon, Vulnerability Scanning & CTFs (TryHackMe)
-💻 Dev Stack : Spring Boot (Java), Python, Flutter (Dart)
-⚙️ Hardware  : Arduino, ESP32, STM32
-🌱 Learning  : Building and breaking systems to understand how they work!
+### ⚡ `EXECUTE: /bin/about_me.sh`
+```console
+root@sliit-sec:~# cat about_me.txt
+[+] Name           : Ravindu Sadhakith
+[+] Role           : Cybersecurity Undergraduate @ SLIIT
+[+] Focus          : Network Recon, Vulnerability Scanning, CTFs (TryHackMe, PicoCTF)
+[+] Superpower     : Turning caffeine into secure APIs (Spring Boot & Python).
+[+] Hobby          : Tinkering with embedded hardware (Arduino, ESP32, STM32).
